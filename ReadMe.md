@@ -62,7 +62,6 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 <img width="1341" height="599" alt="image" src="https://github.com/user-attachments/assets/74c1cbe1-1176-4045-ad1e-b01e0542ead4" />
 
 
-
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
 2. Inspected policy permissions attached to groups.  
